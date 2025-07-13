@@ -9,6 +9,8 @@ venue: 'Frontiers in Robotics and AI'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Wazir, H. K., Lourido, C., Chacko, S. M., & Kapila, V. (2021).  &quot;A COVID-19 emergency response for remote control of a dialysis machine with mobile HRI. &quot; <i>Frontiers in Robotics and AI</i>, 8, 612855.'
+citation: 'Wazir, H. K., <b>Lourido, C.</b>, Chacko, S. M., & Kapila, V. (2021).  &quot;A COVID-19 emergency response for remote control of a dialysis machine with mobile HRI. &quot; <i>Frontiers in Robotics and AI</i>, 8, 612855.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
+
+Coming soon...

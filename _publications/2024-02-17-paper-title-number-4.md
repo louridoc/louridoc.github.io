@@ -7,7 +7,9 @@ excerpt: 'In this paper we present a weeklong professional development workshop 
 date: 2022-08-01
 venue: 'ASEE Annual Conference & Exposition'
 paperurl: 'http://louridoc.github.io/files/aeee_conf_paper.pdf'
-citation: 'Lourido, C., Su, H., & Kapila, V., A Professional Development Program using a Low-Cost Exoskeleton Kit to Support Trainers in Translating Technical Research to Implementable Recommendations &quot;2022 ASEE Annual Conference & Exposition&quot;, Minneapolis, MN, USA, 2022'
+citation: '<b>Lourido, C.</b>, Su, H., & Kapila, V., A Professional Development Program using a Low-Cost Exoskeleton Kit to Support Trainers in Translating Technical Research to Implementable Recommendations &quot;2022 ASEE Annual Conference & Exposition&quot;, Minneapolis, MN, USA, 2022'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
+
+Coming soon...
