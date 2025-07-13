@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "A Professional Development Program using a Low-Cost Exoskeleton Kit to Support Trainers in Translating Technical Research to Implementable Recommendations"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'In this paper we present a weeklong professional development workshop that combines social‐capital and cultural‐historical activity (CHAT) theories with project‐based (PBL) and 5E instructional models, using a low-cost 3D-printed exoskeleton kit to help robotics researchers craft implementable training materials for occupational therapists. Through hands-on assembly, capability mapping, and structured mentor–protégé interactions, participants learn to translate technical research into accessible, practice-oriented recommendations'
+date: 2022-08-01
+venue: 'ASEE Annual Conference & Exposition'
+paperurl: 'http://louridoc.github.io/files/aeee_conf_paper.pdf'
+citation: 'Lourido, C., Su, H., & Kapila, V., A Professional Development Program using a Low-Cost Exoskeleton Kit to Support Trainers in Translating Technical Research to Implementable Recommendations &quot;2022 ASEE Annual Conference & Exposition&quot;, Minneapolis, MN, USA, 2022'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

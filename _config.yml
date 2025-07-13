@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Christian Lourido, Ph.D. Candidate"
+title                    : "CV - Portafolio"
 title_separator          : "-"
 name                     : &name "Christian Lourido"
 description              : &description "personal description"

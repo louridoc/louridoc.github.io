@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-02-17-paper-title-number-5
+excerpt: 'In this paper we introduce a VR-based rehabilitation system that models a user’s upper‐limb kinematics to generate personalized “capability maps,” enabling tailored, game‐like therapy programs. By adapting exercises to each patient’s physical limitations—and emphasizing specific joint usage—the platform both engages users and objectively tracks their progress over time.'
+date: 2024-07-15
+venue: '46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
+paperurl: 'http://louridoc.github.io/files/Using_Capability_Maps_Tailored_to_Arm_Range_of_Motion_in_VR_Exergames_for_Rehabilitation.pdf'
+citation: 'C. Lourido, Z. Waghoo, H. K. Wazir, N. Bhagat and V. Kapila, &quot;Using Capability Maps Tailored to Arm Range of Motion in VR Exergames for Rehabilitation,&quot; <i>2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</i>, Orlando, FL, USA, 2024, pp. 1-4, doi: 10.1109/EMBC53108.2024.10781958'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
