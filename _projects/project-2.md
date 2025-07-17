@@ -7,7 +7,7 @@ collection: projects
 Video
 ===
 
-<video width="640" height="360" controls>
-  <source src="{{ site.baseurl }}/media/AR-force.mp4" type="video/mp4">
-  Your browser doesn’t support HTML5 video.
-</video>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/JNt2ZlWy-Uc" 
+title="AR Framework for Handheld Devices to Communicate Force Intent" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
