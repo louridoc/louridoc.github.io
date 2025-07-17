@@ -101,5 +101,5 @@ Publications
   
 Mentorship
 ======
-* Kishan Reddy Raghunath- MS student in Mechatronics and Robotics (2021-2023)
-* Pavan Cherukuri - MS student in Mechatronics and Robotics (2021-2023)
+* [Kishan Reddy Raghunath](https://www.linkedin.com/in/kishanreddy6/) - MS student in Mechatronics and Robotics (2021-2023)
+* [Pavan Cherukuri](https://www.linkedin.com/in/pc3088/) - MS student in Mechatronics and Robotics (2021-2023)

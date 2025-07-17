@@ -4,4 +4,10 @@ title: "Coming soon..."
 collection: portfolio
 ---
 
-Coming soon...
+## Projects during Ph.D. Program (August 2018 to December 2019)
+
+fdfdsf
+
+## Projects during Master's program (August 2018 to December 2019)
+
+dsadas
