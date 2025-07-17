@@ -364,6 +364,36 @@ def parse_portfolio(portfolio_dir):
     
     return portfolio
 
+# added by Chris
+def parse_projects(projects_dir):
+    """Parse projects items from the _projects directory."""
+    projects = []
+    
+    if not os.path.exists(projects_dir):
+        return projects
+    
+    for projects_file in sorted(glob.glob(os.path.join(projects_dir, "*.md"))):
+        with open(projects_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+            # Extract projects details
+            projects_entry = {
+                "name": front_matter.get('title', ''),
+                "category": front_matter.get('collection', 'projects'),
+                "date": front_matter.get('date', ''),
+                "url": front_matter.get('permalink', ''),
+                "description": front_matter.get('excerpt', '')
+            }
+            
+            projects.append(projects_entry)
+    
+    return projects
+
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
     # Parse the markdown CV
@@ -397,6 +427,9 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+
+    # Add projects
+    cv_json["projects"] = parse_projects(os.path.join(repo_root, "_projects"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:
