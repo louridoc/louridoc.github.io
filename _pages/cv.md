@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download My Resume (PDF)](/assets/CV_CEL_Jul2025.pdf)
+
 
 Education
 ======
