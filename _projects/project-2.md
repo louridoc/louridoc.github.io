@@ -7,7 +7,7 @@ collection: projects
 Video
 ===
 
-<iframe width="600" height="400" src="https://youtu.be/3-uLGmPzwUo" 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/JNt2ZlWy-Uc" 
 title="AR Framework for Handheld Devices to Communicate Force Intent" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
