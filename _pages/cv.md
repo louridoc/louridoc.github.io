@@ -41,7 +41,8 @@ Skills
 * **Simulation:** RViz, Gazebo
 * **Software / OS:** MATLAB-Simulink, Linux, macOS, Windows
 * **CAD:** Autodesk Fusion, SolidWorks
-* **App development:** Unity, Xcode (iOS, ARKit)
+* **App development:** Unity (AR Foundation, ROS-TCP Connector), Xcode (Swift, iOS, ARKit)
+* **Embedded:** Arduino, rosserial, Dynamixel actuators, force sensing
 * **PLC / HMI:** Studio 5000 Logix Designer, FactoryTalk, Ignition
 * **Languages:** English (fluent), Spanish (native)
 
