@@ -2,6 +2,7 @@
 title: "MR Framework to Communicate Force Intent and Receive Visual Force Feedback"
 excerpt: "A mixed-reality human–robot interaction framework on an iPad that uses a virtual arrow to communicate force intent (location, direction, and magnitude) to a custom 7-DoF robot, and renders visual feedback of the force it applies. Validated with a 25-participant user study.<br/><img src='/images/ar-force.png' alt='Virtual force arrow overlaid on a robot manipulator in a tablet view'>"
 collection: projects
+order: 2
 ---
 
 * Built a custom 7-DoF robot (six Dynamixel revolute joints and a linear-actuator end effector with a FlexiForce force sensor driven by an Arduino) and its ROS / MoveIt stack, from URDF model to force-controlled execution.

@@ -2,6 +2,7 @@
 title: "Remote Control of a Dialysis Machine with Mobile HRI"
 excerpt: "A non-invasive, retrofit system in which a 4-DoF stylus robot presses a dialysis machine's touchscreen on behalf of a remote healthcare worker, who taps on a live video of the panel. Developed as a COVID-19 emergency response.<br/><img src='/images/covid-19_orig_resized.png' alt='Robotic manipulator operating a dialysis machine touchscreen'>"
 collection: projects
+order: 5
 ---
 
 * Built a 4-DoF stylus robot (modified OpenManipulator-X, Dynamixel servos, Raspberry Pi 4) and the complete ROS integration for a non-invasive, retrofit approach to operating a dialysis machine's touchscreen remotely.
