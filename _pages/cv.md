@@ -37,7 +37,7 @@ Skills
 * **Motion planning:** MoveIt 2, OMPL, Pilz, NVIDIA cuRobo, OctoMap, nvblox
 * **Robotic arms:** Universal Robots, FANUC CRX
 * **AI / ML:** PyTorch, TensorFlow, Ultralytics YOLO11 (detection and instance segmentation), synthetic data generation (Unity Perception), Core ML on-device deployment, dataset curation and annotation
-* **Perception & vision:** OpenCV, Open3D, point-cloud processing (PCA, ICP), pose estimation
+* **Perception & vision:** OpenCV, Open3D, point-cloud processing (PCA, ICP), pose estimation, camera calibration, ArUco / fiducial markers, homography
 * **Simulation:** RViz, Gazebo
 * **Software / OS:** MATLAB-Simulink, Linux, macOS, Windows
 * **CAD:** Autodesk Fusion, SolidWorks

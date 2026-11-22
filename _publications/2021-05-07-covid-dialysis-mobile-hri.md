@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-covid-dialysis-mobile-hri
 redirect_from:
   - /publication/2009-10-01-paper-title-number-1
-excerpt: 'A non-invasive remote monitoring and control system that retrofits dialysis machines with robotic manipulators, allowing healthcare workers to operate touchscreens via a live-streamed tablet or desktop interface. An accuracy evaluation and comparative user studies of touch- versus click-based modes showed similarly low task loads and good usability, with click interactions yielding more consistent performance.'
+excerpt: 'A non-invasive remote monitoring and control system that retrofits dialysis machines with robotic manipulators, allowing healthcare workers to operate touchscreens via a live-streamed tablet or desktop interface. An accuracy evaluation and a comparative user study of touch- versus click-based modes showed no significant difference in task load between the two modes, with click interactions yielding more consistent performance.'
 date: 2021-05-07
 venue: 'Frontiers in Robotics and AI'
 paperurl: 'https://doi.org/10.3389/frobt.2021.612855'
