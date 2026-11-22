@@ -2,7 +2,8 @@
 title: "VR Exergames Tailored to Arm Range of Motion with Capability Maps"
 excerpt: "A VR rehabilitation system that builds a 7-DoF kinematic model of the user's arm from Kinect measurements and computes capability maps of where they can reach and how dexterously, so that exergames can be tailored to each user's limitations.<br/><img src='/images/vrexergame-capmap-healthy.jpg' width='300' alt='Capability map of a healthy arm, colored by reachability index'>"
 collection: projects
-order: 3
+period: "2024"
+order: 2
 ---
 
 * Built the capability-map pipeline in MATLAB: a 7-DoF human-arm kinematic model as a rigid-body tree with collision meshes, voxelized reachability via forward and inverse kinematics, and per-voxel dexterity scores.

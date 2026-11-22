@@ -2,6 +2,7 @@
 title: "Exoskeleton-Kit Workshop: Training Robotics Researchers to Communicate with Occupational Therapists"
 excerpt: "A weeklong professional development program, delivered in December 2022, that teaches exoskeleton developers to create training lessons for occupational therapists, built around a hands-on lesson with a low-cost 3D-printed elbow exoskeleton kit.<br/><img src='/images/exokit-workshop-kit.jpg' width='300' alt='Exoskeleton kit parts, assembled kit with control box, and control interface'>"
 collection: projects
+period: "2022"
 order: 4
 ---
 

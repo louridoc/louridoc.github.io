@@ -2,6 +2,7 @@
 title: "MRRos: iPhone LiDAR AR App for ROS 2"
 excerpt: "An open-source iPhone/iPad app that joins a ROS 2 network, shows the robot in augmented reality aligned with the real one, and turns the device's LiDAR into an environment sensor: it scans the room into the robot's planning scene for MoveIt.<br/><img src='/images/mrros-rviz-scan.jpg' width='400' alt='LiDAR scan of a room shown as a colored point cloud around a UR robot in RViz'>"
 collection: projects
+period: "2026"
 order: 0
 ---
 
