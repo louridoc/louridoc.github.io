@@ -29,11 +29,15 @@ System
 
 **Robot.** A modified Robotis OpenManipulator-X with four degrees of freedom, driven by Dynamixel XL430 servomotors, with 3D-printed links and a stylus held by a pen-holder end effector. It runs ROS Melodic on a Raspberry Pi 4. The robot's workspace was analyzed with Denavit–Hartenberg forward kinematics and Monte Carlo sampling to define where the panel can be placed (0.20–0.27 m from the robot).
 
+<img src="/images/dialysis-robot-prototype.jpg" alt="Left: CAD model of the 4-DoF robot arm with a stylus end effector. Right: the built prototype with a stylus pen and a webcam on a stand" style="width:100%;max-width:800px;">
+
 **Vision: from a tap to a robot target.**
 * A calibrated webcam streams the panel to the operator's app as a ROS topic.
 * A single 40 mm ArUco marker at the corner of the panel defines its plane; a homography maps the tapped pixel to a point on the panel.
 * A one-time calibration estimates the camera pose in the robot frame, so each mapped point becomes a robot target. The robot moves above the point, presses until contact, and returns home.
 * A ROS WebSocket server on the Raspberry Pi bridges the robot and the Unity app over Wi-Fi.
+
+<img src="/images/dialysis-system-setup.jpg" alt="Left: the operator's app view of the dialysis control panel with an ArUco marker, above the live video with perspective distortion. Right: rendering of the complete setup with the robot pressing the touchscreen panel and a tablet showing the app" style="width:100%;max-width:800px;">
 
 Results
 ===
@@ -52,4 +56,8 @@ Results
 
 * **No significant difference in task load** (NASA RTLX) between the two modes.
 * **Usability (SUS):** the only significant difference was on the consistency item, in favor of click.
-* **Frustration** was the highest-rated workload factor in both groups, attributed to the robot's speed and the "Busy" wait between commands. Skewed camera views were also criticized, which motivated a perspective-correction method proposed in the paper.
+* **Frustration** was the highest-rated workload factor in both groups, attributed to the robot's speed and the "Busy" wait between commands. Skewed camera views were also criticized, which motivated a perspective-correction method proposed in the paper: the user marks the panel's four corners, and the app shows a rectified view while mapping taps back to the camera image.
+
+<img src="/images/dialysis-perspective-correction.jpg" alt="Left: raw camera view of the dialysis control panel with its four corners marked. Right: the perspective-corrected view of the panel" style="width:100%;max-width:800px;">
+
+<p style="font-size:smaller">Figures adapted from Wazir, Lourido, Chacko &amp; Kapila, <i>Frontiers in Robotics and AI</i> 8, 612855 (2021), <a href="https://doi.org/10.3389/frobt.2021.612855">doi:10.3389/frobt.2021.612855</a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
