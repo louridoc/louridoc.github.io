@@ -36,9 +36,9 @@ Skills
 * **Robotics middleware:** ROS, ROS 2, rosbridge, rosbag, MATLAB Robotics Toolbox
 * **Motion planning:** MoveIt 2, OMPL, Pilz, NVIDIA cuRobo, OctoMap, nvblox
 * **Robotic arms:** Universal Robots, FANUC CRX
-* **Perception & vision:** OpenCV, Open3D, object detection (YOLOv11), pose estimation
+* **AI / ML:** PyTorch, TensorFlow, Ultralytics YOLO11 (detection and instance segmentation), synthetic data generation (Unity Perception), Core ML on-device deployment, dataset curation and annotation
+* **Perception & vision:** OpenCV, Open3D, point-cloud processing (PCA, ICP), pose estimation
 * **Simulation:** RViz, Gazebo
-* **ML frameworks:** PyTorch, TensorFlow
 * **Software / OS:** MATLAB-Simulink, Linux, macOS, Windows
 * **CAD:** Autodesk Fusion, SolidWorks
 * **App development:** Unity, Xcode (iOS, ARKit)

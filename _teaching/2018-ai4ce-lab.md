@@ -9,4 +9,4 @@ period: "Nov 2018 – Dec 2019"
 location: "Brooklyn, New York"
 ---
 
-Volunteer Research Assistant in the [Artificial Intelligence for Civil Engineering (AI4CE) Lab](https://ai4ce.github.io/), led by [Prof. Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en), during my M.S. in Mechatronics and Robotics.
+Volunteer Research Assistant in the [Artificial Intelligence for Civil Engineering (AI4CE) Lab](https://ai4ce.github.io/), led by [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng), during my M.S. in Mechatronics and Robotics.
