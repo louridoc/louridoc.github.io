@@ -19,3 +19,9 @@ package-lock.json
 # Ignore folders related to IDEs
 .vscode/
 .DS_Store
+# Large media: host videos on YouTube, not in the repo
+media/
+*.mp4
+*.MP4
+*.mov
+*.MOV

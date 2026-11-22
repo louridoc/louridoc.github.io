@@ -1,6 +1,6 @@
 ---
 title: "Handheld Mixed-Reality Framework for Egocentric Human–Robot Collaboration"
-excerpt: "A handheld mixed-reality app that runs an on-device YOLO11 instance segmentation model to detect objects, estimate their poses with LiDAR depth, and let an operator define, visualize, and verify pick-and-place and stacking goals for a collaborative robot, without teach-pendant interaction.<br/><img src='/images/trajectoryPath.png' width='300' alt='Planned robot trajectory visualized in mixed reality'>"
+excerpt: "A handheld mixed-reality app that runs an on-device YOLO11 instance segmentation model to detect objects, estimate their poses with LiDAR depth, and let an operator define, visualize, and verify pick-and-place and stacking goals for a collaborative robot, without teach-pendant interaction.<br/><img src='/images/trajectoryPath.jpg' width='300' alt='Planned robot trajectory visualized in mixed reality'>"
 collection: projects
 ---
 
