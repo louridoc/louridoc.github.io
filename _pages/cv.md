@@ -31,15 +31,15 @@ Awards and Honors
 
 Skills
 ======
-* **Programming:** C/C++, Python, Swift, C#, LaTeX
-* **Version control:** Git, GitHub
-* **Robotics middleware:** ROS, ROS 2, rosbridge, rosbag, MATLAB Robotics Toolbox
+* **Programming:** C/C++, Python, Swift, C#, MATLAB-Simulink, LaTeX
+* **Dev tools:** Git, GitHub, Claude Code, GitHub Copilot, Cursor
+* **Robotics middleware:** ROS 2, rosbridge, ROS bags, MATLAB Robotics Toolbox
 * **Motion planning:** MoveIt 2, OMPL, Pilz, NVIDIA cuRobo, OctoMap, nvblox
 * **Robotic arms:** Universal Robots, FANUC CRX
 * **AI / ML:** PyTorch, TensorFlow, Ultralytics YOLO11 (detection and instance segmentation), synthetic data generation (Unity Perception), Core ML on-device deployment, dataset curation and annotation
 * **Perception & vision:** OpenCV, Open3D, point-cloud processing (PCA, ICP), pose estimation, camera calibration, ArUco / fiducial markers, homography
-* **Simulation:** RViz, Gazebo
-* **Software / OS:** MATLAB-Simulink, Linux, macOS, Windows
+* **Simulation:** Isaac Sim, Gazebo
+* **Software / OS:** Linux, macOS, Windows
 * **CAD:** Autodesk Fusion, SolidWorks
 * **App development:** Unity (AR Foundation, ROS-TCP Connector), Xcode (Swift, iOS, ARKit)
 * **Embedded:** Arduino, rosserial, Dynamixel actuators, force sensing
