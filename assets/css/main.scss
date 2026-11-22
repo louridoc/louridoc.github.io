@@ -40,9 +40,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Center images in page content (project pages) and in list excerpts (Projects page) */
+/* Center images in page content (project pages) and in list items (Projects page).
+   Note: list excerpts are <p> inside <p>, which browsers split, so target .archive__item. */
 .page__content img,
-.archive__item-excerpt img {
+.archive__item img {
   display: block;
   margin-left: auto;
   margin-right: auto;

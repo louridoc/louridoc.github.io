@@ -24,11 +24,8 @@ Capability maps
 <div style="display:flex;gap:16px;flex-wrap:wrap;align-items:flex-start;justify-content:center;">
 <img src="/images/vrexergame-arm-model.png" alt="Seven-degree-of-freedom arm kinematic model on a human body model, with shoulder, elbow, and wrist joints labeled" style="width:220px;max-width:100%;">
 <div style="flex:1;min-width:260px;">
-
-**Arm model.** The arm is modeled with seven degrees of freedom: three at the shoulder (abduction–adduction, flexion–extension, internal–external rotation), elbow flexion–extension, forearm pronation–supination, and two at the wrist. In MATLAB, it is built as a rigid-body tree with collision meshes for the upper arm, forearm, and body, so the maps exclude poses where the arm would collide with itself or the body.
-
-**From reachability to dexterity.** The workspace is discretized into voxels. Forward and inverse kinematics determine which voxels the fingertip can reach, and each reachable voxel is scored by how many different hand orientations are possible there. The result is a capability map: a 3D picture of where a user can reach and how dexterously.
-
+<p><strong>Arm model.</strong> The arm is modeled with seven degrees of freedom: three at the shoulder (abduction–adduction, flexion–extension, internal–external rotation), elbow flexion–extension, forearm pronation–supination, and two at the wrist. In MATLAB, it is built as a rigid-body tree with collision meshes for the upper arm, forearm, and body, so the maps exclude poses where the arm would collide with itself or the body.</p>
+<p><strong>From reachability to dexterity.</strong> The workspace is discretized into voxels. Forward and inverse kinematics determine which voxels the fingertip can reach, and each reachable voxel is scored by how many different hand orientations are possible there. The result is a capability map: a 3D picture of where a user can reach and how dexterously.</p>
 </div>
 </div>
 
