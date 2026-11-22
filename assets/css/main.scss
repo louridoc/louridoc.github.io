@@ -40,3 +40,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Center images in page content (project pages) and in list excerpts (Projects page) */
+.page__content img,
+.archive__item-excerpt img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -21,7 +21,7 @@ Rehabilitation after a stroke or other neurological condition depends on long, r
 Capability maps
 ===
 
-<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:flex-start;">
+<div style="display:flex;gap:16px;flex-wrap:wrap;align-items:flex-start;justify-content:center;">
 <img src="/images/vrexergame-arm-model.png" alt="Seven-degree-of-freedom arm kinematic model on a human body model, with shoulder, elbow, and wrist joints labeled" style="width:220px;max-width:100%;">
 <div style="flex:1;min-width:260px;">
 
@@ -38,12 +38,12 @@ Capability maps
 
 <img src="/images/vrexergame-capmap-restricted.jpg" alt="Capability map of the same arm with a restricted shoulder: a visibly smaller reachable volume" style="width:100%;max-width:800px;">
 
-*Capability maps for an unrestricted arm (top) and with a shoulder restriction (bottom).*
+<p style="text-align:center;"><em>Capability maps for an unrestricted arm (top) and with a shoulder restriction (bottom).</em></p>
 
 Exergames
 ===
 
-<div style="display:flex;gap:16px;flex-wrap:wrap;">
+<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
 <img src="/images/vrexergame-balloon-user.jpg" alt="User's view in VR: a red balloon to pop, a guide trajectory, and the user's arm shown as a stick figure" style="width:48%;min-width:240px;">
 <img src="/images/vrexergame-ot-user.jpg" alt="User's view in VR: bottles on a shelf, with translucent blue volumes showing the user's reachable workspace" style="width:48%;min-width:240px;">
 </div>

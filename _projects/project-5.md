@@ -7,9 +7,11 @@ order: 4
 
 * Designed a professional development methodology that combines social capital theory, cultural-historical activity theory (CHAT), project-based learning, and the 5E instructional model, so engineers can design effective training for non-engineer end users.
 * Delivered a weeklong workshop (December 12–16, 2022) to engineering researchers working on the hardware, perception, and control of a wearable exoskeleton.
-* Built the workshop's example lesson around low-cost 3D-printed elbow exoskeleton kits with a Bluetooth control interface and four operating modes.
+* Built and programmed the low-cost 3D-printed elbow exoskeleton kits and their Bluetooth control interface (Unity) with four operating modes, and designed the workshop's hands-on example lesson around them.
 
 **Publication:** [A Professional Development Program using a Low-Cost Exoskeleton Kit to Support Trainers in Translating Technical Research to Implementable Recommendations](/publication/2022-asee-exoskeleton-kit), ASEE Annual Conference & Exposition, 2022. The paper presents the program design; the workshop was delivered later that year.
+
+**My role:** first author; I designed the methodology and the workshop program, built and programmed the exoskeleton kits and their control interface, prepared the training materials, and delivered the workshop, with Prof. Hao Su and Prof. Vikram Kapila as co-authors.
 
 Why?
 ===
