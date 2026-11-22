@@ -32,7 +32,7 @@ Awards and Honors
 Skills
 ======
 * **Programming:** C/C++, Python, Swift, C#, MATLAB-Simulink, LaTeX
-* **Dev tools:** Git, GitHub, Claude Code, GitHub Copilot, Cursor
+* **Dev tools:** Git, GitHub, Jira, Claude Code, GitHub Copilot, Cursor
 * **Robotics middleware:** ROS 2, rosbridge, ROS bags, MATLAB Robotics Toolbox
 * **Motion planning:** MoveIt 2, OMPL, Pilz, NVIDIA cuRobo, OctoMap, nvblox
 * **Robotic arms:** Universal Robots, FANUC CRX
